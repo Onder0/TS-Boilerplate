@@ -44,3 +44,9 @@ pnpm build
 ```bash
 pnpm start
 ```
+
+### Lint
+
+```bash
+    pnpm lint
+```
