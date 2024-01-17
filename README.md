@@ -2,7 +2,7 @@
 
 ## Installation
 
-### With Git 
+### With Git
 
 ```
 git clone https://github.com/TRIPTYK-ACADEMY/fullstack-tournai-boilerplate
