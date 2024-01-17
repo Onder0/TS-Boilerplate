@@ -11,7 +11,8 @@
         "test": "echo \"Error: no test specified\" && exit 1",
         "format": "pnpm prettier . --write",
         "lint": "pnpm eslint .",
-        "lint:fix": "pnpm eslint . --fix"
+        "lint:fix": "pnpm eslint . --fix",
+        "prepare": "pnpm husky install"
     },
     "keywords": [],
     "author": "",
@@ -24,6 +25,7 @@
         "eslint-plugin-import": "^2.25.2",
         "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
         "eslint-plugin-promise": "^6.0.0",
+        "husky": "^8.0.3",
         "nodemon": "^3.0.3",
         "prettier": "^3.2.4",
         "ts-node": "^10.9.2",
