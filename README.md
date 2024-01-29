@@ -48,5 +48,5 @@ pnpm start
 ### Lint
 
 ```bash
-    pnpm lint
+pnpm lint
 ```
