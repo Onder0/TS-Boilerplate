@@ -5,7 +5,7 @@
 ### With Git
 
 ```
-git clone https://github.com/TRIPTYK-ACADEMY/fullstack-tournai-boilerplate
+git clone https://github.com/Onder0/boilerplate-F_JS
 ```
 
 ```
@@ -16,7 +16,7 @@ git init
 ### With pnpx
 
 ```
-pnpx degit https://github.com/TRIPTYK-ACADEMY/fullstack-tournai-boilerplate
+pnpx degit https://github.com/Onder0/boilerplate-F_JS
 ```
 
 Install packages:
